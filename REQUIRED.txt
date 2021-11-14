@@ -1,0 +1,2 @@
+Requirements: Python 3.5+ (64-bit) with pygame installed.
+
