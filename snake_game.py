@@ -1,6 +1,6 @@
 """SNAKE GAME
     CODED WITH PYTHON
-     BY SPECTURE"""
+     BY SPECTURE RAM"""
 
 
 import random
